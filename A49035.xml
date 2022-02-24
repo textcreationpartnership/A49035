@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ordered, that such of the rules and by-laws made by this court in pursuance of the late Ordinance for Regulation of Hackney Coachmen, and approved by His Highness the Lord Protector and Councel ...</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49035</idno>
+            <idno type="STC">Wing L2864F</idno>
+            <idno type="STC">ESTC R39818</idno>
+            <idno type="EEBO-CITATION">18504769</idno>
+            <idno type="OCLC">ocm 18504769</idno>
+            <idno type="VID">107908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49035)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107908)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:60)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ordered, that such of the rules and by-laws made by this court in pursuance of the late Ordinance for Regulation of Hackney Coachmen, and approved by His Highness the Lord Protector and Councel ...</title>
+                  <author>City of London (England).</author>
+                  <author>Packe, Christopher, Sir, 1593?-1682.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first five lines of text.</note>
+                  <note>At head of title: Pack mayor. Tuesday the second day of January, 1654.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cab and omnibus service --  England --  London.</term>
+               <term>Taxicab drivers --  England --  London.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:107908:1"/>
+            <pb n="1" facs="tcp:107908:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>blazon of the City of London</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>Pack Mayor.</signed> 
+               <dateline>
+                  <date>Tueſday the Second day of January, 1654.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>ORdered, That ſuch of the Rules and By-Laws made by this Court in purſuance of the late Ordinance for Regulation of Hackney Coachmen, and approved by His Highneſs the Lord <hi>Protector</hi> and the Councel, as are of moſt concernment to be preſently and publickly known, be forthwith Printed, that all perſons concerned may take notice thereof, and act according to the ſame Rules, being now to be put in ſtrict execution without further warning.</hi>
+            </p>
+            <p>TO the intent there may be no exaction, ſtrife or debate about the hire of Coa<g ref="char:EOLhyphen"/>ches for time to come; It is Ordained, That no perſon or perſons of the Fellowſhip of Hackney Coachmen ſhall require, take or have any greater rate or prices then is here<g ref="char:EOLhyphen"/>after ſet down and expreſſed; that is to ſay, for the hire of a Coach, Caroach or Charret with four Horſes, twenty ſhillings a day; and
+<pb n="2" facs="tcp:107908:2"/>for a Coach and two Horſes, ten ſhillings a day; And that every Coach with four Horſes ſhall at the Rates aforeſaid limited, travel upon the Roads to and from <hi>London,</hi> from the twenty fifth day of <hi>March</hi> until the twentieth day of <hi>October,</hi> thirty miles a day, within ſixty miles compaſs of <hi>London</hi> every way (ex<g ref="char:EOLhyphen"/>cepting in <hi>Suſſex</hi> Road, which being worſt and hardeſt for iourneying, ſhall be travelled ſo far onely as is reaſonable, or as ſhall be a<g ref="char:EOLhyphen"/>greed or undertaken by the Coachmen upon hire) And a Coach with two Horſes, at the Rates before limited for two Horſes, for the ſame ſeaſon, ſhall travel twenty miles a day; And that from and after the twentieth day of <hi>October,</hi> until the twenty fifth of <hi>March,</hi> a Coach with four Horſes ſhall travel twenty five miles a day, and a Coach with two Hor<g ref="char:EOLhyphen"/>ſes ſhall travel fifteen miles a day, within the like compaſs of ſixty miles from <hi>London</hi> (excepting upon the ſaid Road of <hi>Suſſex</hi>) But for the time a Coach ſhall reſt or lie ſtill up<g ref="char:EOLhyphen"/>on any Iourney, the hire ſhall be, <hi>viz</hi> for a Coach and four Horſes but ten ſhillings a day, &amp; for a Coach with two horſes but ſix ſhil<g ref="char:EOLhyphen"/>lings eight pence a day. And that none of the ſaid Coachmen unleſs he be hired by the day) ſhall require, take or have for carrying any perſon or perſons in his Coach, from any parts or places within the places and limits aforeſaid, to any other place or places within the ſame limits (namely, ſix miles compaſs
+<pb n="3" facs="tcp:107908:2"/>of the late Lines of Communication, and back again) above twelve pence a mile for<g ref="char:EOLhyphen"/>ward and backward, that is to ſay, ſix pence a mile forward, and ſix pence backward, if he be not put to above an hours waiting and at<g ref="char:EOLhyphen"/>tendance for carrying back of ſuch perſon or perſons; and then to have twelve pence an hour for every hours attendance, above the ſpace of one hour. And from the <hi>Old Exchange</hi> in <hi>Cornhill London.</hi> unto <hi>Weſtminſter,</hi> or to any other place of like diſtance of place or there<g ref="char:EOLhyphen"/>abouts, not above eighteen pence, but if the perſons carried exceed three perſons, two ſhil<g ref="char:EOLhyphen"/>lings; and from the <hi>Old Exchange</hi> unto <hi>Temple Barre, Lincolns Inn</hi> or <hi>Grayes Inn</hi> or to any other place of like diſtance of place, or thereabouts, not above twelve pence; alſo from <hi>Guildhall</hi> to <hi>Temple Barre</hi> or any part of <hi>Chancery-lane, Grays Inn.</hi> or other place of like diſtance, or there<g ref="char:EOLhyphen"/>abouts, not above twelve pence; and from <hi>Temple Barre<g ref="char:punc">▪</g> Lincolns Inn,</hi> or <hi>Grayes Inn</hi> to <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> or to any place of like diſtance, or there<g ref="char:EOLhyphen"/>abouts, not above twelve pence; and from <hi>Weſtminſter</hi> to <hi>White-Chappel,</hi> or the like di<g ref="char:EOLhyphen"/>ſtance of place, or thereabouts, two ſhillings ſix pence; and from <hi>Temple Barr</hi> to <hi>White-Chap<g ref="char:EOLhyphen"/>pel,</hi> or the like diſtance of place, or thereabouts, eighteen pence; and from the <hi>Old Exchange</hi> to <hi>White Chappel,</hi> or the like diſtance of place, twelve pence: and after the ſame proportion from place to place within the limits and pla<g ref="char:EOLhyphen"/>ces aforeſaid. And if any perſon or perſons ad<g ref="char:EOLhyphen"/>mitted,
+<pb n="4" facs="tcp:107908:3"/>or that ſhal be admitted to keep Coach and Horſes as aforeſaid, ſhall deny to accept his pay according to the Rates aforeſaid, or ſhall wilfully refuſe to be hired, with his Coach and Horſes, at the rates aforeſaid, and ſhall excuſe himſelf, or pretend that he is hired before, whereas in truth he is not; or ſhall misbehave himſelf by uncivil carriage, or re<g ref="char:EOLhyphen"/>preachful or railing words, towards any per<g ref="char:EOLhyphen"/>ſon or perſons who ſhal require or offer to hire his Coach or Horſes, and offer to pay unto him for the ſame after the Rates aforeſaid, in ſuch caſe ſuch perſon and perſons ſhall for the firſt offence, being proved before the ſaid Over<g ref="char:EOLhyphen"/>ſeers at their Meetings, who are hereby im<g ref="char:EOLhyphen"/>powered to examine ſuch abuſes, forfeit, and pay ten ſhillings; for the ſecond offence, being proved as aforeſaid, twenty ſhillings and for the third offence, being complained of to the Court of Aldermen of the ſaid City, and the thing there proved, ſhall by Order of the ſaid Court be diſmiſſed, and put beſide his keep<g ref="char:EOLhyphen"/>ing of Coach and Horſes to work and hire out, within the limits aforeſaid.</p>
+            <p>For avoiding all annoyance, and peſtering of the ſtreets by the ſtanding of too many Coaches in the ſame: It is Ordained, That there ſhall not ſtand at the <hi>Old Exchange,</hi> at one time, above ten Coaches, ſide at the one ſide of the Conduit there, and five at the other ſide, thirty foot off and from the ſaid Conduit, near the Channel, and a good diſtance one from
+<pb n="5" facs="tcp:107908:3"/>another, and the Drivers not to ſtir off from his and their Coaches, and be careful not to offend the Inhabitants &amp; Paſſengers there<g ref="char:EOLhyphen"/>abouts; In like manner in <hi>G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ildhall</hi> yard, not above two Coaches (unleſs they attend any perſons that have hired the ſame) In <hi>Pauls Church-yard</hi> not above eight Coaches at one time: In <hi>Smithfield</hi> not above ten: In <hi>Al<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erſ<g ref="char:EOLhyphen"/>gate-ſtreet</hi> not above eight From <hi>Fleet Conduit</hi> to <hi>Dunſtans Church</hi> not above ten from thence to <hi>Temple Barre</hi> not above eight; In <hi>Chancery<g ref="char:EOLhyphen"/>lane</hi> not above ſix; From the <hi>Savoy</hi> to the <hi>New Exchange</hi> or <hi>York-houſe,</hi> not above ten; At <hi>Cha<g ref="char:EOLhyphen"/>ring Croſs</hi> not above ſix; At <hi>Whitehall</hi> not above eight; At <hi>Weſtminſter</hi> as occaſion ſerves; From the Weſt-end of S. <hi>Clements Church</hi> to <hi>Exeter-houſe</hi> not above twenty; In <hi>Holborn</hi> not above twenty; In <hi>Long-acre</hi> and <hi>Covent Garden</hi> as occaſion ſerves; In S. <hi>Martins lane</hi> not obove twelve; and in <hi>Biſhopſgate-ſtreet</hi> not above twelve Coaches at any one time, Vpon pain that every one offending therein by a wilful exceeding of the reſpective Numbers of Coaches before-mentioned, ſhall for every offence forfeit and pay Two ſhillings ſix pence.</p>
+            <p>That none of the ſaid Hackney Coachmen ſhall have his Coach, or any part of it gilded, nor wear the Eſchucheon of any perſon of Ho<g ref="char:EOLhyphen"/>nour, or Gentleman thereupon, Vpon pain of Five pounds: But, as a Mark of di<g ref="char:EOLhyphen"/>ſtinction, ſhall have the City Arms placed
+<pb n="6" facs="tcp:107908:4"/>or painted on the Shield, upon the croſſe piece behinde of his ſaid Coach.</p>
+            <p>That if any perſon or perſons ſhall after the twenty fifth of <hi>December 1654,</hi> preſume to keep and let to hire any Coach and Horſes, not be<g ref="char:EOLhyphen"/>ing duly allowed by the Court of Aldermen of <hi>London,</hi> or having been allowed, and for any cauſe diſabled and diſmiſſed by the ſaid Court, ſhall yet preſume to keep, or let to hire any Coach or Horſes; In every ſuch caſe eve<g ref="char:EOLhyphen"/>ry perſon ſo offending, upon the proof as a<g ref="char:EOLhyphen"/>foreſaid, ſhall forfeit and pay for the firſt of<g ref="char:EOLhyphen"/>fence twenty ſhillings, for the ſecond offence forty ſhillings, and for every offence after<g ref="char:EOLhyphen"/>wards the ſum of four pounds, to be had and recovered as is hereafter mentioned.</p>
+            <p>And it is Ordained, That every perſon ad<g ref="char:EOLhyphen"/>mitted, or that ſhall be admitted to keep Hackney Coaches and Horſes as aforeſaid, ſhall retain and keep no ſervant but of honeſt and civil life and behaviour, and ſhall for the miſcarriages or offences of his or her ſer<g ref="char:EOLhyphen"/>vants, againſt any the Orders and Provi<g ref="char:EOLhyphen"/>ſions before-going, or that ſhall hereafter be made in this behalf, undergo and ſuffer like pains and penalties, as if the ſame had been done and committed in his or her own per<g ref="char:EOLhyphen"/>ſon, and the ſervant ſo offending ſhall make reparation to his Maſter or Miſtris, out of his wages by way of abatement or deduction; or otherwiſe ſhall be committed to the Houſe of Correction by the ſaid Lord Mayor and
+<pb n="7" facs="tcp:107908:4"/>Aldermen, there to remain and be whipped, and held to hard labour, as, according to the merit and nature of the offence, ſhall by the ſaid Court be adiudged fit and reaſonable, and not enlarged, but by Warrant from the ſaid Court.</p>
+            <p>And further, It is Ordained, that all pains, penalties, forfeitures, and ſums of money, by vertue of any of theſe Ordinances to be forfeited, and not otherwiſe levied, ſhall and may be levied by Diſtreſs, and ſale of the Coach or Coaches, and Horſes, or other Goods and Chattels of the party or parties offending and refuſing, or neglecting to pay the ſame; deducting the ſaid forfeiture or ſum of mo<g ref="char:EOLhyphen"/>ney, and reaſonable charges of diſtraining, and reſtoring the overplus to the owner there<g ref="char:EOLhyphen"/>of; or otherwiſe, ſuch pains, penalties, forfei<g ref="char:EOLhyphen"/>tures and ſums of money, ſhall and may be recovered by Action of Debt, Bill or Plaint, to be commenced in any Court of Record: And after recovery and levying thereof, and charges deducted, the one moyety thereof to be to the uſe of the ſaid Fellowſhip, and the other moyety thereof to the Informer that ſhall proſecute the ſame: In which Suits the Proſecutor ſhall recover ordinary Coſts and Charges againſt the offendor or offendors in that behalf, if the Suit or Action paſs for him; and the Defendant ſhall recover his Coſts againſt the Plaintiff, if the ſame go for the Defendant.</p>
+            <p>
+               <pb n="8" facs="tcp:107908:5"/>
+Laſtly, It is Ordained, That if any perſon or perſons ſhall hire, or make uſe of the ſaid Hackney Coachmen, or any of them, or of their Coaches and Horſes, for carrying of them from place to place, and ſhall refuſe or neglect to pay, and ſatisfie him and them their hire or freight as aforeſaid, and accord<g ref="char:EOLhyphen"/>ing to the ſame proportion, That ſuch perſon or perſons ſhall and may be carried before any Iuſtice of Peace near the place where ſuch refuſal or fact ſhall be committed; and that ſuch Iuſtice of Peace ſhall cauſe the ſame to be paid forthwith, with ſuch dama<g ref="char:EOLhyphen"/>ges as he ſhall think fit in his diſcretion for detaining the ſame: and for not performance thereof, the ſaid Iuſtice of Peace ſhall hereby have power to deal with ſuch offendor, as fully, amply and largely, to all intents and purpoſes, as any Iuſtice of Peace may do with any Maſter, who refuſeth to pay his Servant his wages contracted for.</p>
+            <closer>
+               <signed>SADLER.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>James Fleſher,</hi> Printer to the Honoura<g ref="char:EOLhyphen"/>ble City of <hi>London.</hi>
+            </p>
+            <pb facs="tcp:107908:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
